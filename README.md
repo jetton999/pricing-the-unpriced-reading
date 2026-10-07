@@ -1,12 +1,13 @@
 # Pricing the Unpriced: reading library
 
-Private reading library for the NYU CUSP capstone team (sponsors: BNBD / Oxcart Assembly).
+Reading library for the NYU CUSP capstone team (sponsors: BNBD / Oxcart Assembly).
 The companion to the **[Literature Review Reading List](Literature-Review-Reading-List.pdf)**, which
 has a link to every file here and to the sources of the rest. The data, notebook, and map are in the
 public repo, [pricing-the-unpriced](https://github.com/jetton999/pricing-the-unpriced).
 
-**Keep this repo private. Do not redistribute these files.** Copyright stays with each publisher and
-author; the copies are here for the team's research use.
+Copyright stays with each publisher and author. These copies are provided for research and teaching,
+with the sources cited below. **If you hold the rights to a file here and want it taken down, open an
+issue on this repo and it will be removed.**
 
 ## What is here
 
@@ -15,7 +16,7 @@ author; the copies are here for the team's research use.
 | `heritage-and-value/` | Been, Ellen, Gedal, Glaeser and McCabe, NBER Working Paper 20446 (2014) | NBER working paper |
 | | Manganelli, Tajani, De Paola and Del Giudice, *Heritage* 6(7) (2023) | Open access, CC BY 4.0 |
 | | Steinberg, *NYU Annual Survey of American Law* 66(4) (2011) | NYU law journal |
-| `waverly/` | The Baltimore Banner, "Empty storefronts are holding back Waverly. Is one man to blame?" (Oct. 5, 2026) | News article, team use only |
+| `waverly/` | The Baltimore Banner, "Empty storefronts are holding back Waverly. Is one man to blame?" (Oct. 5, 2026) | News article. Copyright The Baltimore Banner |
 | | National Register nomination, Waverly Main Street Historic District (NPS 13001020, B-5229) | Public record |
 | | National Register nomination, Peabody Heights / Charles Village / Abell (B-3736, NR-775) | Public record |
 | | National Register nomination, St. John's Church, Huntingdon (B-3731, NR-212) | Public record |
